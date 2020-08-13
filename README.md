@@ -11,7 +11,9 @@ Mobile:
 
 # Remote Control
 
-Fueled by AJAX/REST API/Modbus PLC Control
+Fueled by AJAX/REST API/Modbus PLC Control (See Arrow)
+
+![Alt text](https://github.com/golf-n-code/Cybersify/blob/master/remotecontrol.png "Remote Control")
 
 # Historical Analysis
 
